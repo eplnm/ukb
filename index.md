@@ -1,6 +1,6 @@
 # Conduits, Not Arbiters: Why I've Never Been Tempted by M&T Stadium
 
-For twenty years I've lived in Baltimore, watching [purple jerseys](https://claude.ai/public/artifacts/8a4ebfb3-557a-410a-967b-839af8db3f29) flood the streets every Sunday, hearing the distant roar from M&T Stadium echo across the harbor. Yet I've never once been tempted to join the pilgrimage. This isn't contrarian posturing or aesthetic snobbery—it's a philosophical disagreement with the very architecture of intelligence that American football embodies.
+For twenty years I've lived in Baltimore, watching purple jerseys flood the streets every Sunday, hearing the distant roar from M&T Stadium echo across the harbor. Yet I've never once been tempted to join the pilgrimage. This isn't contrarian posturing or aesthetic snobbery—it's a philosophical disagreement with the very architecture of intelligence that American football embodies.
 
 ## The Quarterback Fallacy
 
@@ -24,9 +24,15 @@ Yet even soccer isn't immune to the gravitational pull of centralized power. On 
 
 This tension—between the emergent intelligence of play and the concentrated power of ownership—reveals something deeper about our moment. We build distributed systems (the internet, social media, cryptocurrency) that promise decentralization, then watch them collapse into new forms of hierarchy. The most elegant architectures of intelligence become captured by the oldest patterns of power.
 
-## The Stadium as Metaphor
+## The Prosody of Intelligence
 
-So when I hear the roar from M&T Stadium, I don't hear celebration—I hear the sound of intelligence being bottlenecked, creativity being systematized, improvisation being scripted. I hear twenty-two athletic geniuses reduced to executing a coach's playbook through a quarterback's interpretive commands.
+Intelligence is musical. It has rhythm, tempo, flow—what musicians call prosody. And here's what twenty years of Baltimore Sundays have taught me: American football has terrible prosody.
+
+Listen to the rhythm: snap-play-whistle-huddle-pause-snap-play-whistle. It's morse code, not melody. Start-stop-start-stop, with twenty-five seconds of standing around between each burst of action. The game's temporal architecture mirrors its cognitive one—everything channeled through discrete commands rather than continuous flow.
+
+Compare this to soccer's unbroken ninety-minute symphony, where intelligence moves like a river finding its course. Or basketball's jazz-like improvisation, where five musicians riff off each other in real time, no conductor needed. These sports understand what trees understand: that intelligence flows, doesn't command.
+
+So when I hear the roar from M&T Stadium, I don't hear celebration—I hear the sound of intelligence being bottlenecked, creativity being systematized, improvisation being scripted. I hear twenty-two athletic geniuses reduced to executing a coach's playbook through a quarterback's interpretive commands, all chopped into forty-second fragments with commercial breaks.
 
 This isn't to diminish the skill involved. The precision required to execute a sixty-yard spiral pass is genuinely remarkable. The strategy can be genuinely sophisticated. But it's the sophistication of a machine, not an ecosystem. It's intelligence engineered rather than intelligence emerged.
 
